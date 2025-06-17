@@ -1,3 +1,3 @@
-# ML
+# NeuroAI
 
-Welcome to my Machine Learning (ML) repository, where I will commit interdisciplinary practice projects and experimenting with various modeling techniques.
+Welcome to my NeuroAI repository, where neuroscience meets AI modeling. Here, I will commit interdisciplinary practice projects and experiment with various modeling techniques.
